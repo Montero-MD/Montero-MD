@@ -2,13 +2,13 @@
  mad·dy  | *mə-dē*
 
 ---
-👋 Hi, I’m Matthew David G. Montero
+ Hi, I’m Matthew David G. Montero
 
 
-🌱 I am a 19-year-old Computer Science undergrad of West Visayas State University. My hobbies include listening to music, learning all things tech and cars, cooking, watching movies, playing video games, and exercise. I love talking about technology – specifically phones, consoles, and PCs. I am also a car enthusiast interested in cars of all shapes and sizes, from sedans commonly seen driving around today to classic SUVs of the 90s.
+ I am a 19-year-old Computer Science undergrad of West Visayas State University. My hobbies include listening to music, learning all things tech and cars, cooking, watching movies, playing video games, and exercise. I love talking about technology – specifically phones, consoles, and PCs. I am also a car enthusiast interested in cars of all shapes and sizes, from sedans commonly seen driving around today to classic SUVs of the 90s.
 
 
-👀 I have basic knowledge in various programming languages such as: C, C++, HTML, CSS.
+ I have basic knowledge in various programming languages such as: C, C++, HTML, CSS.
 
 💞️ Single but not ready to mingle
 
