@@ -14,6 +14,7 @@ I am a 19-year-old Computer Science undergrad of West Visayas State University. 
 ---
 ##### 📫 [Facebook](https://www.facebook.com/Matd06) | [Instagram](https://www.instagram.com/itsmatt_montero/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Montero-MD)](https://git.io/streak-stats)
 <!---
 Montero-MD/Montero-MD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
