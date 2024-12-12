@@ -4,9 +4,9 @@ Currently an **aspiring Full-Stack Developer**. I enjoy learning and creating 
 
 ### 💻 Projects
 
-*   🚚 **Dul'ong**. Automatically assess scoliosis severity using computer vision and machine learning. My undergrad thesis!
+*   🚚 **Dul'ong**. Generates routes for Logistics Service Providers given a number of customers to deliver for.
     
-*   [**💲**](https://linkroom.vercel.app/) **PeraPlan.** An income-and-expense tracking application for Android Devices
+*   [**💲**](https://linkroom.vercel.app/) **PeraPlan.** An income-and-expense tracking application for Android Devices.
     
 
 ### 📫 Reach Me
