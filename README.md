@@ -4,14 +4,14 @@ Currently an **aspiring Full-Stack Developer**. I enjoy learning and creating 
 
 ### 💻 Projects
 
-*   🚚 **Dul'ong**. Generates routes for Logistics Service Providers given a number of customers to deliver for.
+*   🚚 **Dul'ong**. Generates optimal routes for Logistics Service Providers given a set of customers to deliver for.
     
 *   [**💲**](https://linkroom.vercel.app/) **PeraPlan.** An income-and-expense tracking application for Android Devices.
     
 
 ### 📫 Reach Me
 
-*   [**LinkedIn**](https://www.linkedin.com/in/Montero-MD/)**.** Let's get to know each other! 🧐
+*   [**LinkedIn**](https://www.linkedin.com/in/Montero-MD/)**.**  Let's connect and build meaningful solutions together! 🧐
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Montero-MD)](https://git.io/streak-stats)
