@@ -1,6 +1,6 @@
 ### About Me
 
-Currently an **aspiring Full-Stack Developer**. I enjoy learning and creating **web apps** and **mobile apps**! I do Python for Machine Learning, Flutter for mobile app development, and I use **Next.JS**, **TypeScript**, **Django, and PostgreSQL** as my current web development stack.
+Currently a **Software Engineer**. I enjoy learning and creating **web apps** and **mobile apps**! I do Python for Machine Learning, Flutter for mobile app development, and I use **Next.JS**, **TypeScript**, **Django, and PostgreSQL** as my current web development stack.
 
 ### 💻 Projects
 
