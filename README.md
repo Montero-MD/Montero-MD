@@ -6,7 +6,7 @@ Currently a **Software Engineer**. I enjoy learning and creating **web apps** a
 
 *   🚚 **Dul'ong**. Generates optimal routes for Logistics Service Providers given a set of customers to deliver for.
     
-*   [**💲**](https://linkroom.vercel.app/) **PeraPlan.** An income-and-expense tracking application for Android Devices.
+*   [**💲**] **PeraPlan.** An income-and-expense tracking application for Android Devices.
     
 
 ### 📫 Reach Me
